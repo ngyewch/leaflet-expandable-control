@@ -32,12 +32,12 @@
     "typedoc": "typedoc"
   },
   "devDependencies": {
-    "@types/leaflet": "1.9.20",
+    "@types/leaflet": "1.9.21",
     "gh-pages": "6.3.0",
-    "typedoc": "0.28.13",
-    "typescript": "5.9.2",
-    "validate-package-exports": "0.13.0",
-    "vite": "7.1.7",
+    "typedoc": "0.28.14",
+    "typescript": "5.9.3",
+    "validate-package-exports": "0.14.0",
+    "vite": "7.1.12",
     "vite-plugin-dts": "4.5.4"
   },
   "dependencies": {
